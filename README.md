@@ -1,15 +1,13 @@
 # <div align="center">Dell Inspiron 7566 hackintosh
 </div> 
 
-## ```Note```
 
-<h5>- Nếu bạn là người Việt Nam, hãy đọc <a href="https://github.com/qilskcter/Dell-Vostro-3460-Hackintosh/blob/main/README-VN.md">bản Tiếng Việt 🇻🇳</a></h5> 
 
 ## Bootloader Versions
 
-|OpenCore|Clover|
-|--------|------|
-|0.8.4|5146| 
+|OpenCore|
+|--------|
+|0.8.7|
 
 ## Supported macOS Versions
 
